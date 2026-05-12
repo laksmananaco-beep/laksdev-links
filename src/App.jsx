@@ -124,6 +124,16 @@ export default function App() {
     <FaTiktok />
   </a>
 
+    {/* GITHUB */}
+<a
+  href="https://github.com/laksmananaco-beep"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="bg-white/5 border border-white/10 hover:border-cyan-400 hover:scale-110 hover:-translate-y-1 transition duration-300 p-4 rounded-2xl text-xl"
+>
+  <FaGithub />
+</a>
+
   {/* WHATSAPP */}
   <a
     href="https://wa.me/6283156623206"
@@ -133,6 +143,8 @@ export default function App() {
   >
     <FaWhatsapp />
   </a>
+
+
 
 </motion.div>
 {/* PROJECT */}
