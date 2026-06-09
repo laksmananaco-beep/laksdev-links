@@ -106,7 +106,7 @@ export default function App() {
 
   {/* LINKEDIN */}
   <a
-    href="https://linkedin.com"
+    href="https://www.linkedin.com/in/laksmana-431543297"
     target="_blank"
     rel="noopener noreferrer"
     className="bg-white/5 border border-white/10 hover:border-cyan-400 hover:scale-110 hover:-translate-y-1 transition duration-300 p-4 rounded-2xl text-xl"
